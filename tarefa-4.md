@@ -1,5 +1,3 @@
 # Tarefa 4
 
-Exemplo de como linkar unha imaxe que se atopa no cartafol `img`:
-
-![Imaxe de exemplo](./img/imaxe-exemplo.png)
+https://github.com/ElyOrodas/Apuntes-MySQL/blob/master/Creaci%C3%B3n%20de%20BD.md
